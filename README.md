@@ -1,4 +1,4 @@
-![](/assets/BannerCCR.png)
+![](./assets/BannerCCR.png)
 
 # Reproduzindo a interface de login do GitHub
 
@@ -6,6 +6,6 @@
 Neste projeto eu reproduzi a interface gráfica da tela de login GitHub utilizando HTML e CSS.
 
 ### Este foi o resultado:
-![](/assets/github-replica.jpg)
+![](./assets/github-replica.JPG)
 
 ###### tags: `front-end` `HTML` `CSS`
